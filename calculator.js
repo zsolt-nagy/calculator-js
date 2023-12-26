@@ -64,7 +64,7 @@ function renderHistory() {
         .join("");
 
     const historyContent = `
-        <h2>History</h2>
+        <h2>Előzmények</h2>
         ${historyAlerts}
     `;
 
